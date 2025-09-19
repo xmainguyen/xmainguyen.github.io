@@ -5,23 +5,71 @@
     "image": "",
     "email": "maixnnguyen@gmail.com",
     "url": "https://linkedin.com/in/xmainguyen/",
-    "summary": "A jack of all trades, master of some. Experienced in economics research, data science, machine learning, and visualization. Passionate about using data to solve real-world problems.",
+    "summary": "Master’s degree in Business Analytics and Economics with 3+ years of experience in business intelligence, product growth, and marketing strategy across industries including e-commerce, consumer goods, technology, and education. Skilled in building dashboards, ETL pipelines, and applying advanced analytics to solve real-world problems.",
     "location": {
       "postalCode": "CA 94118",
       "city": "San Francisco",
       "countryCode": "US",
       "region": "California"
-    }
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/in/xmainguyen/"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/xmainguyen"
+      },
+      {
+        "network": "Tableau",
+        "url": "https://public.tableau.com/app/profile/mai.nguyen"
+      }
+    ]
   },
   "work": [
     {
-      "name": "University of San Francisco, Prospect Development & Analytics",
+      "name": "University of San Francisco - Prospect Development & Analytics",
+      "location": "San Francisco, CA",
       "position": "Data Analyst",
       "url": "https://www.usfca.edu/giving",
       "startDate": "2024-11-01",
       "endDate": "Present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Supporting prospect development and analytics by building dashboards, models, and statistical analyses for marketing and fundraising optimization.",
+      "highlights": [
+        "Built Tableau dashboards from Salesforce and public datasets, enabling stakeholders to monitor marketing KPIs, conversion funnels, and campaign performance to increase goal attainment by 50% by 2030.",
+        "Developed sentiment analysis models for prospect notes and integrated them into a propensity scoring system, improving lead conversion by 20%.",
+        "Applied Difference-in-Differences analysis to quantify ~$9K uplift in donations from Fundraising Day, shaping alumni engagement strategy.",
+        "Created User Acceptance Testing plans for data migration validation, reducing pipeline errors and ensuring reliability."
+      ]
+    },
+    {
+      "name": "Educational Results Partnership",
+      "location": "Sacramento, CA",
+      "position": "Data Analyst / Engineer",
+      "url": "https://www.edresults.org/",
+      "startDate": "2021-07-01",
+      "endDate": "2024-04-01",
+      "summary": "Worked on education-focused data infrastructure and analytics to improve outcomes for millions of students across California.",
+      "highlights": [
+        "Led development of the Black young adults’ educational outcomes project in collaboration with government agencies, defining data collection methods and metrics.",
+        "Designed a new SQL Server database schema and two automated ETL pipelines, reducing processing time by 80% and improving data integrity by 60%.",
+        "Engineered automated SQL procedures to compute 100+ metrics on ~30M+ end-users, delivering real-time insights for policymakers and colleges."
+      ]
+    },
+    {
+      "name": "Fortune 500 Consumer Goods Company",
+      "location": "Remote",
+      "position": "Data Scientist (Internship)",
+      "startDate": "2021-01-01",
+      "endDate": "2021-05-01",
+      "summary": "Supported global e-commerce analytics and marketing optimization projects.",
+      "highlights": [
+        "Collaborated with Data Science team in China to analyze traffic cannibalization on JD.com (600M+ AAU).",
+        "Built boosted tree models predicting traffic cannibalization with 90% accuracy, improving channel budget allocation.",
+        "Developed an interactive R-Shiny dashboard for non-technical teams to run predictions, reducing budget inefficiency by 10%.",
+        "Awarded Best Paper at the Midwest Decision Science Institute Conference and presented poster at INFORMS Business Analytics Conference."
+      ]
     }
   ],
   "volunteer": [
@@ -29,121 +77,85 @@
       "organization": "Vietnam Tech Summit",
       "location": "Mountain View, CA",
       "position": "Team Lead, Mainstage Operations",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2025-04-01",
+      "endDate": "2025-07-01",
+      "summary": "Led the mainstage operations team for a premier technology summit, coordinating logistics, speakers, and cross-functional teams.",
+      "highlights": [
+        "Oversaw on-stage scheduling and speaker coordination for a 500+ attendee summit.",
+        "Directed volunteers and collaborated with event sponsors to ensure smooth execution."
+      ]
     }
   ],
   "education": [
     {
       "institution": "University of San Francisco",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "location": "San Francisco, CA",
+      "area": "Applied Economics",
+      "studyType": "Master of Science",
+      "startDate": "2024-08-01",
+      "endDate": "2026-05-01"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    }
-  ],
-  "publications": [
+      "institution": "Purdue University",
+      "location": "West Lafayette, IN",
+      "area": "Business Analytics",
+      "studyType": "Master of Science",
+      "endDate": "2021-05-01"
+    },
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "institution": "San Jose State University",
+      "location": "San Jose, CA",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Science",
+      "endDate": "2020-05-01"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Technical",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "SQL (Snowflake, PostgreSQL, SQL Server)",
+        "Python",
+        "R",
+        "Excel",
+        "Tableau",
+        "Power BI",
+        "AWS",
+        "Git",
+        "APIs",
+        "Salesforce"
+      ]
+    },
+    {
+      "name": "Methodologies",
+      "keywords": [
+        "Data Architecture",
+        "Automation Tools",
+        "ETL",
+        "CI/CD",
+        "Statistics",
+        "Machine Learning",
+        "A/B Testing",
+        "Experiment Design",
+        "Causal Inference"
+      ]
+    },
+    {
+      "name": "Leadership",
+      "keywords": [
+        "Student Ambassador (USFCA)",
+        "Team Lead - Vietnam Tech Summit"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "fluency": "Fluent"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "language": "Vietnamese",
+      "fluency": "Native"
     }
   ]
 }
