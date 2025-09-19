@@ -11,7 +11,8 @@
       "city": "San Francisco",
       "countryCode": "US",
       "region": "California"
-    },
+    }
+  },
   "work": [
     {
       "name": "University of San Francisco, Prospect Development & Analytics",
