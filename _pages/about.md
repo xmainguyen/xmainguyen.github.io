@@ -1,11 +1,11 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:
 
 profile:
-  align: left
+  align: right
   image: mai_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -44,4 +44,4 @@ Cycling to new places with my rescue dog 🐶  [![Instagram Badge](https://img.s
 Always learning — whether through data, travel, or exploring new cultures through food
 
 ## Coffee Chat with Me
-Chat about life and work with me  [![Coffee Chat](https://img.shields.io/badge/Coffee%20Chat-☕-brown?style=flat&logo=googlecalendar&logoColor=white)](https://calendar.app.google/8XBUEKdCZgpz1XqE8)
+Chat about life and work with me  [![Coffee Chat](https://img.shields.io/badge/Coffee%20Chat-☕-yellow?style=flat&logoColor=white)](https://calendar.app.google/8XBUEKdCZgpz1XqE8)
