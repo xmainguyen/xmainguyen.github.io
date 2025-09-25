@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: Media Mentions
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /inthemedia/
+title: In The Media
+description: 
 nav: true
 nav_order: 6
 ---
