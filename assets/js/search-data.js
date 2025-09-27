@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
+  },{id: "nav-media-mentions",
+          title: "Media Mentions",
+          description: "Highlights of academic achievements, press features, and research",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/media/";
+          },
+        },{id: "nav-projects",
           title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
@@ -29,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-media-mentions",
-          title: "Media Mentions",
-          description: "Highlights of academic achievements, press features, and research projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/media/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -405,6 +405,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "media-project-2",
+          title: 'project 2',
+          description: "a project with a background image and giscus comments",
+          section: "Media",handler: () => {
+              window.location.href = "/media/1_media/";
+            },},{id: "media-project-2",
+          title: 'project 2',
+          description: "a project with a background image and giscus comments",
+          section: "Media",handler: () => {
+              window.location.href = "/media/2_media/";
+            },},{id: "media-project-2",
+          title: 'project 2',
+          description: "a project with a background image and giscus comments",
+          section: "Media",handler: () => {
+              window.location.href = "/media/3_media/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
