@@ -3,7 +3,7 @@ layout: page
 title: project 2
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
-redirect: https://unsplash.com
+redirect: https://www.youtube.com/watch?v=FwIPkBiaaS0&list=PL0hTNCUvxVzD0PvCwxy2aB-UzqEet__Nf&t=142s
 importance: 2
 giscus_comments: true
 ---

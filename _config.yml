@@ -158,6 +158,9 @@ collections:
     output: true
   media:
     output: true 
+    permalink: /media/:path/
+    sort_by: date            # Sort items by date
+    reverse: true            # Show newest items first
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
