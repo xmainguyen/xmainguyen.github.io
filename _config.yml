@@ -19,7 +19,7 @@ icon: ⭐ # the emoji used as the favicon (alternatively, provide image name in 
 
 url: https://xmainguyen.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -34,6 +34,11 @@ repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
+
+# Custom Theme Settings for Default Dark Mode
+theme_toggle: true        # Keeps the theme switcher button available
+preferred_theme: 'dark'   # Sets Dark Mode as the default
+use_system_theme: false   # Ignores the user's OS preference
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -153,7 +158,7 @@ collections:
     output: true
   media:
     output: true 
-    
+
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
