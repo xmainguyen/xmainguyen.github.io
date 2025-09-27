@@ -4,7 +4,7 @@ permalink: /media/
 title: Media Mentions
 description: Highlights of academic achievements, press features, and research
 nav: true
-nav_order: 3
+nav_order: 2
 horizontal: false
 ---
 
