@@ -416,11 +416,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-predicting-organic-traffic-cannibalization-rate-on-e-commerce-platform",
+          title: 'Predicting Organic Traffic Cannibalization Rate on E-commerce Platform',
+          description: "A study using machine learning and regression models to estimate and minimize marketing spend cannibalization on JD.com.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/1_predictCannibalization/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
