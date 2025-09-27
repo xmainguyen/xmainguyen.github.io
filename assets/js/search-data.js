@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-media-mentions-amp-featured-work",
-          title: "Media Mentions &amp; Featured Work",
+        },{id: "nav-media-mentions",
+          title: "Media Mentions",
           description: "Highlights of academic achievements, press features, and research projects.",
           section: "Navigation",
           handler: () => {
