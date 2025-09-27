@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-media-mentions",
-          title: "Media Mentions",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-media-mentions-amp-featured-work",
+          title: "Media Mentions &amp; Featured Work",
+          description: "Highlights of academic achievements, press features, and research projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/media/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -420,7 +420,7 @@ ninja.data = [{
           title: 'Predicting Organic Traffic Cannibalization Rate on E-commerce Platform',
           description: "A study using machine learning and regression models to estimate and minimize marketing spend cannibalization on JD.com.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_predictCannibalization/";
+              window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
@@ -446,21 +446,6 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
