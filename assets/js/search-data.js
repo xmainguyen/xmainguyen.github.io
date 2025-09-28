@@ -456,14 +456,14 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-oil-revenue-report",
+          title: 'Oil Revenue Report',
+          description: "a dashboard reporting oil revenue in Tasmania",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-repair-status",
+          title: 'Repair Status',
+          description: "a dashboard reporting the customer repair status",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{
