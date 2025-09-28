@@ -3,8 +3,9 @@ layout: page
 title: project 5
 description: a project with a background image
 img: assets/img/1.jpg
-importance: 2
-category: fun
+redirect: https://public.tableau.com/views/Map_17522496427640/LowestOilProfitinAustralia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+importance: 1
+category: visualization
 ---
 
 Every project has a beautiful feature showcase page.

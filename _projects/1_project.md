@@ -4,7 +4,7 @@ title: Predicting Organic Traffic Cannibalization Rate on E-commerce Platform
 description: A study using machine learning and regression models to estimate and minimize marketing spend cannibalization on JD.com.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: machine learning
 related_publications: false
 ---
 

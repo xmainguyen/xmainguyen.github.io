@@ -3,8 +3,8 @@ layout: page
 title: project 4
 description: another without an image
 img:
-importance: 1
-category: fun
+importance: 2
+category: causal inference
 ---
 
 Every project has a beautiful feature showcase page.

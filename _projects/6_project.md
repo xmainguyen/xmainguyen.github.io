@@ -2,9 +2,10 @@
 layout: page
 title: project 6
 description: a project with no image
-img:
-importance: 3
-category: fun
+img: assets/img/1.jpg
+redirect: https://public.tableau.com/views/CustomerRepairStatusTrackingDashboard/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+importance: 2
+category: visualization
 ---
 
 Every project has a beautiful feature showcase page.
