@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/usfca_dean_recipient.png
+title: USFCA Dean's Scholar (2025 Cohort)
+description: Featured recognition for the 2025 Dean's Scholar cohort
+img: assets/img/dean.png
 redirect: https://www.usfca.edu/news/meet-mai-nguyen
 importance: 1
 giscus_comments: true
