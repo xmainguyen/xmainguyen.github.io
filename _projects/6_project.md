@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Repair Status
+description: a dashboard reporting the customer repair status
 img: assets/img/1.jpg
 redirect: https://public.tableau.com/views/CustomerRepairStatusTrackingDashboard/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 importance: 2

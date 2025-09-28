@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Oil Revenue Report
+description: a dashboard reporting oil revenue in Tasmania
 img: assets/img/1.jpg
 redirect: https://public.tableau.com/views/Map_17522496427640/LowestOilProfitinAustralia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 importance: 1
