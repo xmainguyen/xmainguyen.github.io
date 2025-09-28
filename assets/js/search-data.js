@@ -405,21 +405,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "media-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "media-usfca-dean-39-s-scholar-2025-cohort",
+          title: 'USFCA Dean&amp;#39;s Scholar (2025 Cohort)',
+          description: "Featured recognition for the 2025 Dean&#39;s Scholar cohort",
           section: "Media",handler: () => {
               window.location.href = "/media/1_media/";
-            },},{id: "media-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "media-purdue-baim-alumni-roundtable",
+          title: 'Purdue BAIM Alumni Roundtable',
+          description: "Served as a featured panelist for the Business Analytics and Information Management (BAIM) program.",
           section: "Media",handler: () => {
               window.location.href = "/media/2_media/";
-            },},{id: "media-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "media-crossroads-classic-challenge-finalist-2nd-place",
+          title: 'Crossroads Classic Challenge Finalist 2nd place',
+          description: "win 2nd place",
           section: "Media",handler: () => {
               window.location.href = "/media/3_media/";
+            },},{id: "media-graduate-student-ambassador",
+          title: 'Graduate Student Ambassador',
+          description: "Featured as a Graduate Student Ambassador for the USFCA College of Arts and Sciences.",
+          section: "Media",handler: () => {
+              window.location.href = "/media/4_media/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
