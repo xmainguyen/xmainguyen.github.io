@@ -436,36 +436,36 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-predicting-organic-traffic-cannibalization-rate-on-e-commerce-platform",
+          section: "News",},{id: "projects-dobbs-v-jackson-women-health-org",
+          title: 'Dobbs v. Jackson Women Health Org',
+          description: "a study of abortion access impacts on women labor",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CI_Dobb/";
+            },},{id: "projects-earned-credit-income-tax",
+          title: 'Earned Credit Income Tax',
+          description: "impacts of ECIT on women labor",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CI_EITC/";
+            },},{id: "projects-predicting-organic-traffic-cannibalization-rate-on-e-commerce-platform",
           title: 'Predicting Organic Traffic Cannibalization Rate on E-commerce Platform',
           description: "A study using machine learning and regression models to estimate and minimize marketing spend cannibalization on JD.com.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/ML_cannibalization/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/ML_tcu/";
             },},{id: "projects-oil-revenue-report",
           title: 'Oil Revenue Report',
           description: "a dashboard reporting oil revenue in Tasmania",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/VS_oil/";
             },},{id: "projects-repair-status",
           title: 'Repair Status',
           description: "a dashboard reporting the customer repair status",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
+              window.location.href = "/projects/VS_repair/";
             },},{
         id: 'social-email',
         title: 'email',
