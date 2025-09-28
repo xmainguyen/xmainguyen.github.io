@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-importance: 1
+title: Earned Credit Income Tax
+description: impacts of ECIT on women labor
+img:
+importance: 2
 category: causal inference
 ---
 

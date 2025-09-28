@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 2
+title: Dobbs v. Jackson Women Health Org
+description: a study of abortion access impacts on women labor
+img: assets/img/7.jpg
+importance: 1
 category: causal inference
 ---
 
