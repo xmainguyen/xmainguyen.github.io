@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -436,11 +436,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-dobbs-v-jackson-women-health-org",
-          title: 'Dobbs v. Jackson Women Health Org',
+          section: "News",},{id: "projects-dobbs-v-jackson-women-health",
+          title: 'Dobbs v. Jackson Women Health',
           description: "a study of abortion access impacts on women labor",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/CI_Dobb/";
+              window.location.href = "/projects/CI_Dobbs/";
             },},{id: "projects-earned-credit-income-tax",
           title: 'Earned Credit Income Tax',
           description: "impacts of ECIT on women labor",
