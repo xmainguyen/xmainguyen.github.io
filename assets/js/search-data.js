@@ -446,23 +446,23 @@ ninja.data = [{
           description: "impacts of ECIT on women labor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CI_EITC/";
-            },},{id: "projects-predicting-organic-traffic-cannibalization-rate-on-e-commerce-platform",
-          title: 'Predicting Organic Traffic Cannibalization Rate on E-commerce Platform',
-          description: "A study using machine learning and regression models to estimate and minimize marketing spend cannibalization on JD.com.",
+            },},{id: "projects-predict-organic-traffic-cannibalization-rate-on-e-commerce-platform",
+          title: 'Predict Organic Traffic Cannibalization Rate on E-commerce Platform',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ML_cannibalization/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-cyclistics-tableau-dashboard",
+          title: 'Cyclistics Tableau Dashboard',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/ML_tcu/";
+              window.location.href = "/projects/VS_cyclistics/";
             },},{id: "projects-oil-revenue-report",
           title: 'Oil Revenue Report',
           description: "a dashboard reporting oil revenue in Tasmania",
           section: "Projects",handler: () => {
               window.location.href = "/projects/VS_oil/";
-            },},{id: "projects-repair-status",
-          title: 'Repair Status',
+            },},{id: "projects-product-repair-status",
+          title: 'Product Repair Status',
           description: "a dashboard reporting the customer repair status",
           section: "Projects",handler: () => {
               window.location.href = "/projects/VS_repair/";
