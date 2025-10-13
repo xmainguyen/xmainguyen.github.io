@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Purdue BAIM Alumni Roundtable
+title: Purdue Roundtable
 description: Served as a featured panelist for the Business Analytics and Information Management (BAIM) program.
 img: assets/img/baim.png
 redirect: https://www.youtube.com/watch?v=FwIPkBiaaS0

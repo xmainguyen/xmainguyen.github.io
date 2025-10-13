@@ -1,6 +1,6 @@
 ---
 layout: page
-title: USFCA Dean's Scholar (2025 Cohort)
+title: Dean's Scholar
 description: Featured recognition for the 2025 Dean's Scholar cohort
 img: assets/img/dean.png
 redirect: https://www.usfca.edu/news/meet-mai-nguyen

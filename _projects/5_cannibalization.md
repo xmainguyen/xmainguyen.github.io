@@ -3,8 +3,8 @@ layout: page
 title: Predict Organic Traffic Cannibalization Rate on E-commerce Platform
 description: 
 img: assets/img/colgate.png
-importance: 1
-category: machine learning
+importance: 5
+# category: machine learning
 related_publications: false
 ---
 

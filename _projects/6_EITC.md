@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Product Repair Status
-description: a dashboard reporting the customer repair status
-img: assets/img/repair_status.png
-redirect: https://public.tableau.com/views/CustomerRepairStatusTrackingDashboard/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-importance: 3
-# category: visualization
+title: Earned Credit Income Tax
+description: impacts of ECIT on women labor
+img: assets/img/eitc.jpg
+importance: 6
+# category: causal inference
 ---
 
 Every project has a beautiful feature showcase page.
@@ -35,6 +34,7 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
