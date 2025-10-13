@@ -2,9 +2,9 @@
 layout: page
 title: Dobbs v. Jackson Women Health
 description: a study of abortion access impacts on women labor
-img: assets/img/dobbs_cover.png
-importance: 1
-category: causal inference
+img: assets/img/dobbs_1.png
+importance: 2
+# category: causal inference
 ---
 
 # Impact of Abortion Access on Women's Labor Force Participation

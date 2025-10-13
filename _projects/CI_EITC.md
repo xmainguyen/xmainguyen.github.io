@@ -2,9 +2,9 @@
 layout: page
 title: Earned Credit Income Tax
 description: impacts of ECIT on women labor
-img:
+img: assets/img/eitc.jpg
 importance: 2
-category: causal inference
+# category: causal inference
 ---
 
 Every project has a beautiful feature showcase page.

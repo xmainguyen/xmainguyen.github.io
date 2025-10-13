@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: machine learning
-giscus_comments: true
+title: Cyclistics Tableau Dashboard
+description:
+img: assets/img/cyclistics.png
+redirect: https://public.tableau.com/app/profile/mai.nguyen7165/viz/CyclisticsRiderAnalyticsDashboard/CyclisticsDashboard
+importance: 1
+# category: visualization
 ---
 
 Every project has a beautiful feature showcase page.

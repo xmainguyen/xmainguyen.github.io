@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Repair Status
+title: Product Repair Status
 description: a dashboard reporting the customer repair status
-img: assets/img/1.jpg
+img: assets/img/repair_status.png
 redirect: https://public.tableau.com/views/CustomerRepairStatusTrackingDashboard/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-importance: 2
-category: visualization
+importance: 3
+# category: visualization
 ---
 
 Every project has a beautiful feature showcase page.
