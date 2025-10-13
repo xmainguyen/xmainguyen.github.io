@@ -12,7 +12,7 @@ horizontal: false
 <!-- pages/projects.md -->
 <div class="projects">
 
-{% assign sorted_media = site.media | sort: "importance" %}
+{% assign sorted_media = site.projects | sort: "importance" %}
 
   {% if page.horizontal %}
 
