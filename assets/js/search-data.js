@@ -405,23 +405,23 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "media-usfca-dean-39-s-scholar-2025-cohort",
-          title: 'USFCA Dean&amp;#39;s Scholar (2025 Cohort)',
+            },},{id: "media-dean-39-s-scholar",
+          title: 'Dean&amp;#39;s Scholar',
           description: "Featured recognition for the 2025 Dean&#39;s Scholar cohort",
           section: "Media",handler: () => {
               window.location.href = "/media/1_media/";
-            },},{id: "media-purdue-baim-alumni-roundtable",
-          title: 'Purdue BAIM Alumni Roundtable',
+            },},{id: "media-purdue-roundtable",
+          title: 'Purdue Roundtable',
           description: "Served as a featured panelist for the Business Analytics and Information Management (BAIM) program.",
           section: "Media",handler: () => {
               window.location.href = "/media/2_media/";
-            },},{id: "media-crossroads-classic-challenge-finalist-2nd-place",
-          title: 'Crossroads Classic Challenge Finalist 2nd place',
-          description: "win 2nd place",
+            },},{id: "media-competition-finalist",
+          title: 'Competition Finalist',
+          description: "My team won 2nd place in the 2021 Crossroads Classic Challenge",
           section: "Media",handler: () => {
               window.location.href = "/media/3_media/";
-            },},{id: "media-graduate-student-ambassador",
-          title: 'Graduate Student Ambassador',
+            },},{id: "media-student-ambassador",
+          title: 'Student Ambassador',
           description: "Featured as a Graduate Student Ambassador for the USFCA College of Arts and Sciences.",
           section: "Media",handler: () => {
               window.location.href = "/media/4_media/";
@@ -436,36 +436,36 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-dobbs-v-jackson-women-health",
-          title: 'Dobbs v. Jackson Women Health',
-          description: "a study of abortion access impacts on women labor",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/CI_Dobbs/";
-            },},{id: "projects-earned-credit-income-tax",
-          title: 'Earned Credit Income Tax',
-          description: "impacts of ECIT on women labor",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/CI_EITC/";
-            },},{id: "projects-predict-organic-traffic-cannibalization-rate-on-e-commerce-platform",
-          title: 'Predict Organic Traffic Cannibalization Rate on E-commerce Platform',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/ML_cannibalization/";
-            },},{id: "projects-cyclistics-tableau-dashboard",
+          section: "News",},{id: "projects-cyclistics-tableau-dashboard",
           title: 'Cyclistics Tableau Dashboard',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/VS_cyclistics/";
+              window.location.href = "/projects/1_cyclistics/";
+            },},{id: "projects-dobbs-v-jackson-women-health",
+          title: 'Dobbs v. Jackson Women Health',
+          description: "a study of abortion access impacts on women labor",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_Dobbs/";
             },},{id: "projects-oil-revenue-report",
           title: 'Oil Revenue Report',
           description: "a dashboard reporting oil revenue in Tasmania",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/VS_oil/";
+              window.location.href = "/projects/3_oil/";
             },},{id: "projects-product-repair-status",
           title: 'Product Repair Status',
           description: "a dashboard reporting the customer repair status",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/VS_repair/";
+              window.location.href = "/projects/4_repair/";
+            },},{id: "projects-predict-organic-traffic-cannibalization-rate-on-e-commerce-platform",
+          title: 'Predict Organic Traffic Cannibalization Rate on E-commerce Platform',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_cannibalization/";
+            },},{id: "projects-earned-credit-income-tax",
+          title: 'Earned Credit Income Tax',
+          description: "impacts of ECIT on women labor",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_EITC/";
             },},{
         id: 'social-email',
         title: 'email',
