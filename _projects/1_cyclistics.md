@@ -3,7 +3,7 @@ layout: page
 title: Cyclistics Tableau Dashboard
 description:
 img: assets/img/cyclistics.png
-redirect: https://public.tableau.com/app/profile/mai.nguyen7165/viz/CyclisticsRiderAnalyticsDashboard/CyclisticsDashboard
+redirect: https://public.tableau.com/app/profile/mai.nguyen7165/viz/CyclisticBikeshareAnalyticDashboard/Overview
 importance: 1
 # category: visualization
 ---
